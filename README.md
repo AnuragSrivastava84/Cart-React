@@ -1,7 +1,4 @@
-Sample project to show the basic features of shopping, developed in ReactJs
-
-## Available Scripts
-
+Sample project to show the basic features of shopping cart, which is developed in **ReactJs**
 In the project directory, you can run:
 
 ### `npm start`
