@@ -1,6 +1,7 @@
 Sample project to show the basic features of shopping cart, which is developed in **ReactJs**.
 <br />
-In the project directory, you can run:
+
+To execute the project,In the project directory, you can run:
 
 ### `npm start`
 
